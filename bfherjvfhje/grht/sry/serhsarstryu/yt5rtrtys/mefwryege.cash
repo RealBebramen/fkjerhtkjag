@@ -72,9 +72,9 @@ Tab:AddButton({
     Name = "Rejoin",
     Callback = function()
         if syn then
-            syn.queue_on_teleport("loadstring(game:HttpGet(('https://raw.githubusercontent.com/RealBebramen/fkjerhtkjag/main/bfherjvfhje/grht/sry/serhsarstryu/yt5rtrtys/mefwryege.lua?token=GHSAT0AAAAAABY46JSP3SNSOBBKFQL2VG6MYZUFJZA')))()")
+            syn.queue_on_teleport("https://raw.githubusercontent.com/RealBebramen/fkjerhtkjag/main/bfherjvfhje/grht/sry/serhsarstryu/yt5rtrtys/mefwryege.cash?token=GHSAT0AAAAAABY46JSPOLJD4YQFVL7TD4HOYZUHEVQ')))()")
         else
-            queue_on_teleport("loadstring(game:HttpGet(('https://raw.githubusercontent.com/RealBebramen/fkjerhtkjag/main/bfherjvfhje/grht/sry/serhsarstryu/yt5rtrtys/mefwryege.lua?token=GHSAT0AAAAAABY46JSP3SNSOBBKFQL2VG6MYZUFJZA')))()")
+            queue_on_teleport("https://raw.githubusercontent.com/RealBebramen/fkjerhtkjag/main/bfherjvfhje/grht/sry/serhsarstryu/yt5rtrtys/mefwryege.cash?token=GHSAT0AAAAAABY46JSPOLJD4YQFVL7TD4HOYZUHEVQ')))()")
         end
         game:GetService("TeleportService"):Teleport(game.PlaceId, game:GetService("Players").LocalPlayer)
     end
