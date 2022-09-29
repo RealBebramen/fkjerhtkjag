@@ -1,9 +1,5 @@
 local versionofconsole = "0.0.5"
 
-function neverload()
-    wait(-1)
-end
-
 local ConsoleGui = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
 local UICorner = Instance.new("UICorner")
@@ -368,8 +364,7 @@ _19.TextColor3 = Color3.fromRGB(255, 221, 134)
 _19.TextSize = 14.000
 _19.TextXAlignment = Enum.TextXAlignment.Left
 
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/RealBebramen/fkjerhtkjag/main/bfherjvfhje/grht/sry/serhsarstryu/yt5rtrtys/mefwryege.cash?token=GHSAT0AAAAAABY46JSPOLJD4YQFVL7TD4HOYZUHEVQ')))()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RealBebramen/fkjerhtkjag/main/bfherjvfhje/grht/sry/serhsarstryu/yt5rtrtys/mining%20clicker%20sim.cash')))()
 
 wait(2)
 game.Players.LocalPlayer:WaitForChild("PlayerGui").ConsoleGui.Enabled = false
-neverload()
